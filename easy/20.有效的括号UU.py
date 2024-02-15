@@ -3,7 +3,6 @@
 #
 # [20] 有效的括号
 #
-# Unfinished, Understood
 
 # @lc code=start
 class Solution:

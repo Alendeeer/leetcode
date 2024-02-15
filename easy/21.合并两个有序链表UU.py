@@ -3,7 +3,6 @@
 #
 # [21] 合并两个有序链表
 #
-# Unfinished, understood
 
 # @lc code=start
 # Definition for singly-linked list.
