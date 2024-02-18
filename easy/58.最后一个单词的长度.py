@@ -19,5 +19,3 @@ class Solution:
         return res
 # @lc code=end
 
-soo = Solution()
-soo.lengthOfLastWord("a")

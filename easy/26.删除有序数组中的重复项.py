@@ -30,6 +30,5 @@ class Solution:
         #         break  
         # return len(nums)
 # @lc code=end
-sss = Solution()
-sss.removeDuplicates([1,1,2])
+
   

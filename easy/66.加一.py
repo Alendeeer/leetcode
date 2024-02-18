@@ -45,5 +45,3 @@ class Solution:
         #             break
         # return list(digits)
 # @lc code=end
-# soo = Solution()
-# soo.plusOne([1, 2, 3])
