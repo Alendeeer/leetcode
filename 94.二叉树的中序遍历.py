@@ -13,8 +13,20 @@ class TreeNode:
         self.right = right
 class Solution:
     def inorderTraversal(self, root: TreeNode) -> list[int]:
+        result = []
         if root.left:
             res = self.inorderTraversal(root.left)
+            result.extend(res)
+            return result
+        elif root.right:
+            res = self.inorderTraversal(root.right)
+            return root.val
+        else:
+            try:
+                result.append(root.val)
+                return result
+            except AttributeError:
+                return []
 
         
 # @lc code=end
