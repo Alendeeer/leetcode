@@ -4,7 +4,8 @@
 # [1] Two Sum
 #
 
-# Follow up: get a algorithm whose time complexity is less than O(n^2)
+# Follow up: time complexity < O(n^2)
+
 # @lc code=start
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

@@ -4,6 +4,8 @@
 # [141] Linked List Cycle
 #
 
+# follow up: space complexty: O(1)
+
 # @lc code=start
 # Definition for singly-linked list.
 class ListNode:
